@@ -48,7 +48,6 @@ This Power BI dashboard analyzes Super Store sales data to provide insights into
 - Dashboard Design
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
 <img width="1277" height="718" alt="image" src="https://github.com/user-attachments/assets/2438451a-bd6e-4c6e-9698-65bf585802be" />
 
 
